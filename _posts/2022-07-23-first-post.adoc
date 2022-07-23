@@ -1,0 +1,9 @@
+= First post*
+:layout: post
+:date: 2022-07-23 18:02:11 +1200
+
+After several attempts of setting up a website, I've finally managed to create something a bit concrete.
+At the time of writing, this website uses Github pages with Jekyll, but rather than Markdown, content is written using https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/[AsciiDoc], as it is what I am using at the professional level.
+In particular, I'm also using the `jekyll-asciidoc` extension.
+
+I currently have no concrete goal for what I want to do with this website, although I imagine it will eventually serve as some hub for my professional work as a technical writer.
