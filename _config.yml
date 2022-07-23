@@ -27,7 +27,7 @@ url: "https://oberio.nz" # the base hostname & protocol for your site, e.g. http
 github_username: doc-ko
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
