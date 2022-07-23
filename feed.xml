@@ -1,35 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://oberio.nz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://oberio.nz/" rel="alternate" type="text/html" /><updated>2022-07-23T17:53:36+12:00</updated><id>https://oberio.nz/feed.xml</id><title type="html">DocKo Docs</title><subtitle>J'ai créé une chose.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://oberio.nz/2022/07/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-07-23T00:00:00+12:00</published><updated>2022-07-23T00:00:00+12:00</updated><id>https://oberio.nz/2022/07/23/welcome-to-jekyll</id><content type="html" xml:base="https://oberio.nz/2022/07/23/welcome-to-jekyll.html"><![CDATA[<div class="paragraph">
-<p>You&#8217;ll find this post in your <code>_posts</code> directory.
-Go ahead and edit it and re-build the site to see your changes.
-You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-23T18:24:59+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DocKo Docs</title><subtitle>J'ai créé une chose.</subtitle><entry><title type="html">First post*</title><link href="http://localhost:4000/2022/07/23/first-post.html" rel="alternate" type="text/html" title="First post*" /><published>2022-07-23T00:00:00+12:00</published><updated>2022-07-23T00:00:00+12:00</updated><id>http://localhost:4000/2022/07/23/first-post</id><content type="html" xml:base="http://localhost:4000/2022/07/23/first-post.html"><![CDATA[<div class="paragraph">
+<p>After several attempts of setting up a website, I&#8217;ve finally managed to create something a bit concrete.
+At the time of writing, this website uses Github pages with Jekyll, but rather than Markdown, content is written using <a href="https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/">AsciiDoc</a>, as it is what I am using at the professional level.
+In particular, I&#8217;m also using the <code>jekyll-asciidoc</code> extension.</p>
 </div>
 <div class="paragraph">
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code>YEAR-MONTH-DAY-title.MARKUP</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>Where <code>YEAR</code> is a four-digit number, <code>MONTH</code> and <code>DAY</code> are both two-digit numbers, and <code>MARKUP</code> is the file extension representing the format used in the file.
-After that, include the necessary front matter.
-Take a look at the source for this post to get an idea about how it works.</p>
-</div>
-<div class="paragraph">
-<p>Jekyll also offers powerful support for code snippets:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code class="language-ruby" data-lang="ruby">def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=&gt; prints 'Hi, Tom' to STDOUT.</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll.
-File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll&#8217;s GitHub repo</a>.
-If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
-</div>]]></content><author><name></name></author></entry></feed>
+<p>I currently have no concrete goal for what I want to do with this website, although I imagine it will eventually serve as some hub for my professional work as a technical writer.</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[After several attempts of setting up a website, I&#8217;ve finally managed to create something a bit concrete. At the time of writing, this website uses Github pages with Jekyll, but rather than Markdown, content is written using AsciiDoc, as it is what I am using at the professional level. In particular, I&#8217;m also using the jekyll-asciidoc extension.]]></summary></entry></feed>
