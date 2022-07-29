@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DocKo Docs
-email: doc-ko@oberio.nz
+email: me@docko.dev
 description: >- # this means to ignore newlines until "baseurl:"
   J'ai créé une chose.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oberio.nz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.docko.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: doc-ko
 linkedin_username: kobe-rio
 
