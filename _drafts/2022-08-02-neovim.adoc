@@ -1,0 +1,16 @@
+= Exploring Neovim
+:layout: post
+:date: 2022-08-02 23:21:00 +1200
+:draft:
+
+image::neovim_screenshot.png[Screenshot of Neovim]
+
+I recently started using https://neovim.io[Neovim], simply out of interest.
+Ever since I started working as a technical writer, taking my hands off the keyboards to use my mouse has become a very tedious action, and a dreaded one when it comes to dealing with certain applications.
+
+For example, clicking on something on Microsoft Word or Madcap Flare would inevitably mean running a process that could end up taking several seconds (or even minutes!) to run.
+This has conditioned me into thinking that taking my hands off my keyboard equals an upcoming dip in productivity, as I wait for a process to finish.
+
+It was with this mindset that I found the program `vim` once again.
+I had heard about vim beforehand, but as with most people, the learning curve and barrier of entry to vim put me off for a while.
+
