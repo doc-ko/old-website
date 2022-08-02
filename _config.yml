@@ -52,5 +52,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+asciidoctor:
+  attributes:
+    imagesdir: /assets/images
+    iconsdir: '{imagesdir}/icons'
+
 exclude:
 - README.*
