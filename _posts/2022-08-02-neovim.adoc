@@ -1,7 +1,6 @@
 = Exploring Neovim
 :layout: post
 :date: 2022-08-02 23:21:00 +1200
-:draft:
 
 image::neovim_screenshot.png[Screenshot of Neovim]
 
