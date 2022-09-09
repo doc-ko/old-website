@@ -1,0 +1,64 @@
+= The Three Parts of Documentation
+:layout: post
+:date: 2022-09-09 16:59:00 +1200
+
+== Introduction
+
+A document can be broken down into three parts:
+
+. *Technical Data*: data that comes from the program/code base, e.g. fields that appear in a screen, the alphanumeric format of a field, screen layout.
+
+. *Explanation*: the writing that explains the technical data.
+This is the value of documentation, in that it bridges the gap between the technical data and the reader.
+
+. *Formatting*: what the document looks like for the reader.
+This includes things like font, document format, page layout, branding, etc.
+
+Technical Data and Explanation are more closely linked to each other than formatting.
+Hence, we can group them into a sub-structure called *Content*.
+This graph demonstrates their overall relationship:
+
+image::binary_graph.png[Binary graph]
+
+== Each part has different stakeholders
+
+We bring this into attention because, in terms of _stakeholders_, these three parts have little overlap:
+
+Technical Data::
+* Dev team (back-end)
+* QA?
+
+Explanation::
+* Technical writer
+* Dev team (back-end): _only at a high-level_
+* Project manager
+
+Formatting::
+* Customer support
+* Product team
+* Front-end devs (?)
+
+=== Too many cooks in the Word file
+
+In a Word document, changes from all three parts must be made from that Word document.
+These changes are often very tightly coupled with one another;
+any change to one part tends to break a different part.
+
+For example,
+
+* Copy-pasting the details of a new feature (*technical data*) from one Word file also copy-pastes *formatting* like font family, size, which requires extra time to fix.
+
+* A branding decision (*formatting*) like changing the name of a product necessitates updates to the entire document (*technical data/explanation*).
+This is hardly straightforward, as you may wish to leave the old name in certain contexts for legacy purposes.
+
+The result is that Word documents become a confusing mess of changes after enough time.
+
+image::current_doc_process.png[Word process]
+
+== Decoupling the three parts
+
+To improve the documentation writing lifecycle, we must decouple the three parts.
+The goal is that, should one part need an update, the impact on the other two parts are minimal.
+The following diagram provides an overview of how this can be achieved, plus where each stakeholder can provide their input on the document.
+
+image::new_process.png[Decoupled process]
