@@ -3,6 +3,7 @@
 :permalink: /about/
 
 I'm Karl Oberio, a technical writer with a background in mathematics, computer science, linguistics, and philosophy.
+Also currently learning French and Japanese.
 
 This personal website is still a work in progress.
 To see some writing snippets, head to this https://github.com/doc-ko/writing-snippets[Github repository].
